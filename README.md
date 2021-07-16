@@ -6,5 +6,5 @@ This repo has been created for second homework of Yemeksepeti Mobile Android Boo
 * There is an animation splash screen taken from LottieFiles.
 * Also the navigation component is used.
 
-<img src="https://user-images.githubusercontent.com/71497349/125603866-435772dc-7b85-4e41-a509-d41f70183c1f.gif" width="250" height="500" />
+<img src="https://user-images.githubusercontent.com/71497349/126004528-d1dfd31e-f01e-4020-bf70-f134eac08c85.gif" width="250" height="500" />
 
