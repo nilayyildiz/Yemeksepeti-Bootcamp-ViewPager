@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">OnboardingFlow</string>
+    <string name="you_can_make_your_reservation_from_anywhere">You can make your reservation from anywhere</string>
+    <string name="stop_all_business_and_take_a_vacation">Stop all business and take a vacation.</string>
+    <string name="don_t_worry_about_where_you_will_staying">Don\'t worry about where you will staying</string>
+    <string name="we_arrange_the_most_suitable_accommodation_for_you">We arrange the most suitable accommodation for you.</string>
+    <string name="choose_the_place_you_want_to_visit_on_the_map">Choose the place you want to visit on the map</string>
+    <string name="we_take_care_of_the_rest_for_you">We take care of the rest for you.</string>
+    <string name="you_can_participate_in_organized_events">You can participate in organized events.</string>
+    <string name="travel_new_places_and_make_new_friends">Travel new places and make new friends.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="discover_nature">Discover nature</string>
+    <string name="you_can_join_our_nature_trips">You can join our nature trips.</string>
+    <string name="you_can_participate_in_cultural_events">You can participate in cultural events</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="bon_voyages">Bon Voyages</string>
+    <string name="home">Home Screen</string>
+</resources>
